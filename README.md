@@ -9,9 +9,9 @@
 
 [![][banner-url]][repo-url]  
 
-[logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-logo.png
+[logo-url]: https://github.com/alexlostorto/alexlostorto/raw/main/assets/flashi-logo.png
 [repo-url]: https://plani.org.uk/
-[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/flashi-banner.png
+[banner-url]: https://github.com/alexlostorto/alexlostorto/raw/main/assets/flashi-banner.png
 
 ## 📜 Contributors
 
